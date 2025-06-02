@@ -1,7 +1,7 @@
 // import { motion } from "framer-motion";
 // import DevImage from "./img/DevImage.jpg";
 // import WebImage from "./img/WebImage.jpg";
-import WebImage from "./img/WebImage.png";
+import WebImage from "./img/WebImage.webp";
 
 import { motion } from "framer-motion";
 
@@ -60,7 +60,7 @@ const Hero = () => {
           >
             <img
               src={WebImage}
-              alt="Lorem "
+              alt="Red Dalunos"
               className="w-full rounded-2xl transition-all duration-500"
             />
           </motion.div>
