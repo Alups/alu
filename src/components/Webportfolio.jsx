@@ -18,7 +18,7 @@ export default function WebPortfolioEmbed() {
       description:
         "This is my personal web portfolio showcasing my skills and projects in web development.",
       preview: portPrev,
-      url: "https://github.com/Alups/hotel-bahia",
+      url: "https://reddalunos-portfolio.netlify.app/",
       github: "https://github.com/Alups/alu",
     },
     {
