@@ -37,7 +37,7 @@ const Hero = () => {
               <button
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/cv/cv.pdf"; // path to your file
+                  link.href = "/cv/RD.pdf"; // path to your file
                   link.download = "Red Dalunos.pdf";
                   document.body.appendChild(link);
                   link.click();
@@ -135,7 +135,7 @@ const Hero = () => {
                   Web Developer/Graphic Designer
                 </h4>
                 <p className="text-sm text-gray-300">
-                  I build an eCommerce website for S&J Jewelry and makes a
+                  I built an eCommerce website for S&J Jewelry and made a
                   jewelry catalog for the customers.
                 </p>
               </li>

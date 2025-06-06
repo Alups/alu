@@ -6,7 +6,7 @@ import {
 
 export default function Footer() {
   return (
-    <footer className="bg-primary text-bg px-6 py-12 text-center text-sm mt-28">
+    <footer className=" text-bg px-6 py-12 text-center text-sm">
       <a href="#" className="text-2xl font-medium mb-8 block">
         Alupsss | Red Dalunos
       </a>
