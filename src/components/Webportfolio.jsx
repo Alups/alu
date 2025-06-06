@@ -1,4 +1,5 @@
 import bahiaPrev from "./img/bahia.png";
+import portPrev from "./img/portfolio.png";
 import sjPrev from "./img/sj.png";
 import tmcPrev from "./img/tmc.png";
 
@@ -11,6 +12,14 @@ export default function WebPortfolioEmbed() {
       preview: bahiaPrev,
       url: "https://github.com/Alups/hotel-bahia",
       github: "https://github.com/Alups/hotel-bahia",
+    },
+    {
+      title: "My Web Portfolio",
+      description:
+        "This is my personal web portfolio showcasing my skills and projects in web development.",
+      preview: portPrev,
+      url: "https://github.com/Alups/hotel-bahia",
+      github: "https://github.com/Alups/alu",
     },
     {
       title: "SJ Jewelry",
