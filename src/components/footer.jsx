@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer className=" text-bg px-6 py-12 text-center text-sm">
       <a href="#" className="text-2xl font-medium mb-8 block">
-        Alupsss | Red Dalunoss
+        Alupsss | Red Dalunos
       </a>
 
       <ul className="flex flex-wrap justify-center gap-8 mb-12">
