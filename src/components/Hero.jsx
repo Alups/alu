@@ -1,7 +1,7 @@
 // import { motion } from "framer-motion";
 // import DevImage from "./img/DevImage.jpg";
 // import WebImage from "./img/WebImage.jpg";
-import WebImage from "./img/WebImage.webp";
+import WebImage from "./img/red.png";
 
 import { motion } from "framer-motion";
 
