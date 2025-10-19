@@ -26,11 +26,9 @@ const Hero = () => {
               Web & Graphic Designer
             </h2>
             <p className="text-gray-300 leading-relaxed mb-6">
-              Creativity has always been my way of expressing my self, I love to
-              think an ideas as a kid and designing it in my head. I am a
-              Graphic Designer and Website Developer, I have a 2 years of
-              experience in Graphic Designing while I am an Entry Level In Web
-              Developing.
+              I’m a Graphic Designer who makes digital graphics that help businesses 
+              stand out on social media. I create ads that actually catch attention… 
+              and yes, I’m a goofy introvert who secretly loves making things pop.
             </p>
 
             <div className="flex gap-4">
