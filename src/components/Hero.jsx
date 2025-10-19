@@ -85,14 +85,11 @@ const Hero = () => {
           viewport={{ once: true }}
           className="text-lg text-justify text-gray-300 max-w-3xl mx-auto"
         >
-          My specialization in Designing is creating a social media static posts
-          and create an appealing Ad posts. As a Web Developer I am Handling a
-          website right now which is Sjjewelry.com.ph. I love businesses bring
-          their ideas to life, whether it's through a scroll-stopping Instagram,
-          Facebook post of a clean, functional eCommerce website. I believe good
-          design isn't Just beautiful, it's throughful and strategic. I love to
-          explore things and learning new skills and I am always open for
-          improvement. Let's build something meaningful together.
+        I create social media graphics that stop the scroll and ad posts that actually get noticed. 
+        I love helping businesses bring their ideas to life with designs that aren’t just pretty—they’re smart, thoughtful, 
+        and strategic. A little goofy, a bit of an introvert, always learning, and obsessed with making your brand pop. 
+          
+        Let’s build something meaningful together.
         </motion.p>
       </section>
 
