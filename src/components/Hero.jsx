@@ -23,7 +23,7 @@ const Hero = () => {
               Red Dalunos
             </h1>
             <h2 className="text-2xl md:text-3xl font-bold text-[#FFD66B] mb-4">
-              Web & Graphic Designer
+             Graphic Designer
             </h2>
             <p className="text-gray-300 leading-relaxed mb-6">
               I’m a Graphic Designer who makes digital graphics that help businesses 
