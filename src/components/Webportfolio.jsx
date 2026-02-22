@@ -2,6 +2,8 @@ import bahiaPrev from "./img/bahia.png";
 import portPrev from "./img/portfolio.png";
 import sjPrev from "./img/sj.png";
 import tmcPrev from "./img/tmc.png";
+import wbrPrev from "./img/wonderland.png";
+
 
 export default function WebPortfolioEmbed() {
   const websites = [
@@ -36,11 +38,11 @@ export default function WebPortfolioEmbed() {
       preview: tmcPrev,
     },
     {
-      title: "Tech Metal Corp",
+      title: "WonderlanD Bar & Restaurant",
       description:
-        "Tech Metal Corp is a company that specializes in providing high-quality Jewelry products and services.",
-      url: "https://techmetalcorp.com",
-      preview: tmcPrev,
+        "Wonderland Bar and Restaurant is a vibrant dining destination that offers a unique blend of Thai and Western cuisine, refreshing drinks, and live entertainment, creating a magical and relaxing atmosphere for guests to enjoy unforgettable dining experiences.",
+      url: "https://wonderlandbarandrestaurant.com/",
+      preview: wbrPrev,
     },
   ];
 
