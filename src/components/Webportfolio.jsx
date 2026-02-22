@@ -10,7 +10,7 @@ export default function WebPortfolioEmbed() {
     {
       title: "Hotel Bahia",
       description:
-        "Hotel Bahia is a premier hotel located in Subic Bay, offering luxurious accommodations and exceptional service.",
+        "For my thesis project, I developed the Hotel Bahia website using PHP, creating a dynamic hotel management platform designed to showcase accommodations and streamline booking functionality. The project focused on structured database integration, responsive design, and an intuitive user experience for both guests and administrators.",
       preview: bahiaPrev,
       url: "https://github.com/Alups/hotel-bahia",
       github: "https://github.com/Alups/hotel-bahia",
@@ -26,21 +26,21 @@ export default function WebPortfolioEmbed() {
     {
       title: "SJ Jewelry",
       description:
-        "Sjjewelry is a jewelry store that offers a wide range of high-quality jewelry products.",
+        "For SJ Jewelry, I developed an eCommerce website using WordPress and WooCommerce, creating a fully functional online store to showcase and sell jewelry products. The project focused on clean product presentation, smooth shopping experience, mobile responsiveness, and easy product management for the client.",
       url: "https://sjjewelry.com.ph",
       preview: sjPrev,
     },
     {
       title: "Tech Metal Corp",
       description:
-        "Tech Metal Corp is a company that specializes in providing high-quality Jewelry products and services.",
+        "For the Tech Metal Corp website, I developed a professional business website using WordPress, focusing on presenting the company’s jewelry products and services through a clean layout, structured content, and responsive design to improve user experience across all devices.",
       url: "https://techmetalcorp.com",
       preview: tmcPrev,
     },
     {
       title: "WonderlanD Bar & Restaurant",
       description:
-        "Wonderland Bar and Restaurant is a vibrant dining destination that offers a unique blend of Thai and Western cuisine, refreshing drinks, and live entertainment, creating a magical and relaxing atmosphere for guests to enjoy unforgettable dining experiences.",
+        "I developed the Wonderland Bar and Restaurant website using WordPress, building a fully responsive and visually engaging platform that showcases the brand’s dining experience. The project included custom page layouts, optimized UI structure, mobile responsiveness, and performance improvements to enhance user experience and accessibility.",
       url: "https://wonderlandbarandrestaurant.com/",
       preview: wbrPrev,
     },
