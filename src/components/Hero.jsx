@@ -35,7 +35,7 @@ const Hero = () => {
               <button
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/cv/RD.pdf"; // path to your file
+                  link.href = "/cv/CV_RedDalunos_2026.pdf"; // path to your file
                   link.download = "Red Dalunos.pdf";
                   document.body.appendChild(link);
                   link.click();
