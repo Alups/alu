@@ -124,7 +124,7 @@ const Hero = () => {
             <ul className="space-y-6">
               <li className="bg-white/5 p-6 rounded-lg border-l-4 border-[#FFD66B] hover:scale-[1.02] transition">
                 <p className="text-sm text-[#FFD66B] font-semibold">
-                  S&J Jewelry | March 2025 - Present
+                  S&J Jewelry | March 2025 - August 2025
                 </p>
                 <h4 className="text-lg font-bold">
                   Web Developer/Graphic Designer
