@@ -35,6 +35,13 @@ export default function WebPortfolioEmbed() {
       url: "https://techmetalcorp.com",
       preview: tmcPrev,
     },
+    {
+      title: "Tech Metal Corp",
+      description:
+        "Tech Metal Corp is a company that specializes in providing high-quality Jewelry products and services.",
+      url: "https://techmetalcorp.com",
+      preview: tmcPrev,
+    },
   ];
 
   return (
